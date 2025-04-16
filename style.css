@@ -21,11 +21,8 @@ h2 {
     flex-wrap: wrap;
 }
 
-.cabeçalho-lista {
-    text-align: right; 
-  }
-  
-  ul {
+ul {
     list-style-type: none; 
-    padding: 0;
+    padding: 0;            
+    text-align: right;   
   }
