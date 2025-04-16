@@ -22,7 +22,7 @@ h2 {
 }
 
 ul {
-    position: absolute;  
+    position: left;  
     right: 0;            
     top: 0;              
     list-style-type: none;  
