@@ -2,5 +2,10 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Corinthia', cursive;
+    font-family: Arial, sans-serif; 
 }
+
+h2 {
+  font-family: 'Corinthia', cursive;
+}
+
