@@ -22,13 +22,12 @@ h2 {
 }
 
 ul {
-    float: right;  /* Move a lista para o canto direito */
-    list-style-type: none; /* Remove os marcadores */
-    padding: 0;
-    margin-top: 20px;  /* Dá espaço no topo para não sobrepor */
+    position: absolute;  
+    right: 0;            
+    top: 0;              
+    list-style-type: none;  
+    padding: 0;  
+     
   }
   
-  .main-content {
-    padding-top: 20px;  /* Dá espaço no topo */
-  }
   
