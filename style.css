@@ -20,3 +20,12 @@ h2 {
     padding: 20px 40px;
     flex-wrap: wrap;
 }
+
+body {
+    text-align: right; 
+  }
+  
+  ul {
+    list-style-type: none; 
+    padding: 0;
+  }
