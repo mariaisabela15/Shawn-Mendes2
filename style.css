@@ -11,3 +11,12 @@ h2 {
     font-family: 'Corinthia', cursive;
     color: #1E3A8A
 }
+
+.cabecalho {
+    background-color: lightblue;
+    color: white;
+    display: flex;
+    align-items: center;
+    padding: 20px 40px;
+    flex-wrap: wrap;
+}
