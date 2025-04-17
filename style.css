@@ -13,7 +13,7 @@ h2 {
 }
 
 .cabeçalho {
-    background-color: lightblue;
+    background-color: rgb(44, 104, 124);
     color: white;
     display: flex;
     align-items: center;
