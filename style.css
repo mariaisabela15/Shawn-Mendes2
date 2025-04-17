@@ -45,3 +45,10 @@ body {
     background-color: #ADD8E6;
     margin: 0px;
 }
+
+footer {
+    background-color: rgb(44, 104, 124); 
+    color: white;          
+    text-align: center;    
+    padding: 10px 0;
+}
