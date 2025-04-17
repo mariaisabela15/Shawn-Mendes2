@@ -41,9 +41,15 @@ img {
     border-radius: 50px;
 }
 
-body {
-    background-color: #ADD8E6;
-    margin: 0px;
-    height: 20px;
-    padding-left: 10px; 
-}
+bbody {
+    margin: 0;            /* Remove a margem padrão do body */
+  }
+  
+  header {
+    margin: 0;            /* Remove qualquer margem do cabeçalho */
+  }
+  
+  main {
+    padding-left: 10px;   /* Afasta o conteúdo da borda esquerda */
+    padding-right: 10px;  /* Afasta o conteúdo da borda direita */
+  }
