@@ -43,22 +43,26 @@ img {
 
 body {
     background-color: #ADD8E6;
-    margin: 0px;  
+    margin: 0px;
 }
 
 p {
-    text-align: center;  
+    text-align: center;
+}
+
+
+li {
+    text-align: center;
   }
 
 
-  
 h2 {
     margin-left: 600px;
 }
 
 footer {
-    background-color: rgb(44, 104, 124); 
-    color: white;          
-    text-align: center;    
+    background-color: rgb(44, 104, 124);
+    color: white;
+    text-align: center;
     padding: 10px 0;
 }
