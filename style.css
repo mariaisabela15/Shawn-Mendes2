@@ -46,6 +46,12 @@ body {
     margin: 0px;  
 }
 
+p {
+    text-align: center;  
+  }
+
+
+  
 h2 {
     margin-left: 600px;
 }
