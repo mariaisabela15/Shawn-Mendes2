@@ -24,7 +24,10 @@ h2 {
 .cabeçalho-título {
     color: white;
     font-family: 'Corinthia', cursive;
-    font-size: 40px;
+}
+
+h1{
+    font-size: 50px;
 }
 
 .cabeçalho-lista {
