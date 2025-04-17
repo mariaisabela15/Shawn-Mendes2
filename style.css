@@ -21,6 +21,11 @@ h2 {
     flex-wrap: wrap;
 }
 
+.cabeçalho-título {
+    color: white;
+    font-family: 'Corinthia', cursive;
+}
+
 .cabeçalho-lista {
     list-style: none;
     display: flex;
