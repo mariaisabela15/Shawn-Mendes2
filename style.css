@@ -34,5 +34,8 @@ ul {
     height: 700px;  
     display: block;     
     margin: 0 auto; 
+    display: block;     /* Faz a imagem se comportar como um elemento de bloco */
+  margin-left: auto;  /* Aplica uma margem automática à esquerda */
+  margin-right: auto;
   }
   
