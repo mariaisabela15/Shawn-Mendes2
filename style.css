@@ -22,20 +22,21 @@ h2 {
 }
 
 ul {
-    position: left;  
-    right: 0;            
-    top: 0;              
-    list-style-type: none;  
-    padding: 0;  
-     
-  }
-  img {
-    width: 500px;    
-    height: 700px;  
-    display: block;     
-    margin: 0 auto; 
-    display: block;     /* Faz a imagem se comportar como um elemento de bloco */
-  margin-left: auto;  /* Aplica uma margem automática à esquerda */
-  margin-right: auto;
-  }
-  
+    position: left;
+    right: 0;
+    top: 0;
+    list-style-type: none;
+    padding: 0;
+
+}
+
+img {
+    width: 500px;
+    height: 700px;
+    display: block;
+    margin: 0 auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 15px;
+}
